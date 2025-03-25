@@ -2,7 +2,7 @@ import ResumeImg from '../assets/Respic.jpg'
 
 export default function Resume(){
     const config = {
-        link:'https://drive.google.com/file/d/1pYWgINqBZiuJQuvfn8IK5PUvMSrrhkJP/view?usp=drive_link'
+        link:'https://drive.google.com/file/d/1TIWJXeWHvCSK1AsQ5yyqCxsWjqIfVEeQ/view?usp=drivesdk'
     }
 
 
